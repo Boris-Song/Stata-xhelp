@@ -1,0 +1,32 @@
+v 3
+d xhelp -- Tools to create and display translated help files
+d 
+d -xhelp- is an extension to the official -help- command, which provides 
+d tools to edit original help files into translated version and display 
+d them (or the original one when translated version not found).
+d 
+d KW: workflow
+d KW: help system
+d 
+d Requires: Stata version 9
+d
+d Version: 0.1
+d Distribution-Date: 2022-06-20
+d 
+d Author:  Yongyi Zeng (Xiamen University, PRC)
+d Support: zzyy@xmu.edu.cn
+d 
+
+* comments, not be displayed.
+* f lines name the files that comprise your package.
+* F can force a default-not-installed file to be install to sysdir.
+* help net
+
+f xhelp.ado
+f xhelp.sthlp
+f xhelp_zh.sthlp
+f help_zh.sthlp
+f help_advice_zh.sthlp
+f resources_zh.sthlp
+f f_sum_zh.sthlp
+f f_strpos_zh.sthlp

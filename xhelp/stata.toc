@@ -1,0 +1,9 @@
+v 3
+* the content files
+d Workflow tools by Yongyi Zeng (Xiamen University, zzyy@xmu.edu.cn)
+d Here are some useful packages that I have written for replicable and
+d efficient research workflow.
+p xhelp.pkg   Tools to create and display translated help files.
+p mkdo.pkg    Facilitate making sensible do-files.
+p xproj.pkg   Tools to make, manage and build project in Stata.
+p dirtree.pkg Display directory structure in a tree-like format.
