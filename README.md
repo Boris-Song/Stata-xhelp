@@ -1,4 +1,4 @@
-# Stata-xhelp
+# Stata-xhelp (Not Finished Yet)
 
 🚀 **xhelp 提供 Stata 命令的中文帮助文档，用户可使用 `xhelp` 命令直接查看翻译后的 Stata 帮助文件**
 
